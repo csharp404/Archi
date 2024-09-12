@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RESProject.Mappers\RESProject.Mappers.csproj" />
+    <ProjectReference Include="..\RESProject.Models\RESProject.Models.csproj" />
+    <ProjectReference Include="..\RESProject.SharedKernel\RESProject.SharedKernel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Entities\Address\" />
+    <Folder Include="Entities\Category\" />
+    <Folder Include="Entities\NewFolder\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>

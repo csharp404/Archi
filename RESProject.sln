@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESProject.Presentation", "RESProject.Presentation\RESProject.Presentation.csproj", "{47E54BA9-2AC6-445B-863C-E1D08B191BAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESProject.Models", "RESProject.Models\RESProject.Models.csproj", "{53CB3AF7-034F-4027-B9E9-C79072132B0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESProject.Mappers", "RESProject.Mappers\RESProject.Mappers.csproj", "{570C21CB-7E45-4B49-993F-B808460CA79B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESProject.Repositories", "RESProject.Repositories\RESProject.Repositories.csproj", "{269BE04A-6514-4FA4-A38A-EA38434C5243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESProject.DataAccess", "RESProject.DataAccess\RESProject.DataAccess.csproj", "{FFCDEBF4-953B-4ADC-B921-15E2EB1B99C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RESProject.SharedKernel", "RESProject.SharedKernel\RESProject.SharedKernel.csproj", "{9F9D5A02-F6E1-4301-8D16-272C95A15AA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E54BA9-2AC6-445B-863C-E1D08B191BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E54BA9-2AC6-445B-863C-E1D08B191BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E54BA9-2AC6-445B-863C-E1D08B191BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E54BA9-2AC6-445B-863C-E1D08B191BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53CB3AF7-034F-4027-B9E9-C79072132B0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53CB3AF7-034F-4027-B9E9-C79072132B0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53CB3AF7-034F-4027-B9E9-C79072132B0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53CB3AF7-034F-4027-B9E9-C79072132B0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{570C21CB-7E45-4B49-993F-B808460CA79B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{570C21CB-7E45-4B49-993F-B808460CA79B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{570C21CB-7E45-4B49-993F-B808460CA79B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{570C21CB-7E45-4B49-993F-B808460CA79B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269BE04A-6514-4FA4-A38A-EA38434C5243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269BE04A-6514-4FA4-A38A-EA38434C5243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269BE04A-6514-4FA4-A38A-EA38434C5243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269BE04A-6514-4FA4-A38A-EA38434C5243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFCDEBF4-953B-4ADC-B921-15E2EB1B99C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFCDEBF4-953B-4ADC-B921-15E2EB1B99C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFCDEBF4-953B-4ADC-B921-15E2EB1B99C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFCDEBF4-953B-4ADC-B921-15E2EB1B99C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F9D5A02-F6E1-4301-8D16-272C95A15AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F9D5A02-F6E1-4301-8D16-272C95A15AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F9D5A02-F6E1-4301-8D16-272C95A15AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F9D5A02-F6E1-4301-8D16-272C95A15AA9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDC95739-0720-4287-AED6-AC9DDC6D6C14}
+	EndGlobalSection
+EndGlobal
